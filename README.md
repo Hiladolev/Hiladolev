@@ -57,10 +57,10 @@ An AI agent that consolidates scattered trip recommendations (text, screenshots,
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/hila-dolev-114964254" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL-HERE">
+  <a href="mailto:hiladolev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
