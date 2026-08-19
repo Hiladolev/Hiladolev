@@ -45,15 +45,6 @@ An AI agent that consolidates scattered trip recommendations (text, screenshots,
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiladolev&show_icons=true&theme=default&hide_border=true" alt="Hila's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiladolev&hide_border=true" alt="Hila's streak stats" height="165"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
